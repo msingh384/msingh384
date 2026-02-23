@@ -1,10 +1,6 @@
 # Mannan Raj Singh
 
 <p align="center">
-  <img src="https://brand.gatech.edu/sites/default/files/inline-images/GT_Gold_RGB.png" width="120">
-</p>
-
-<p align="center">
   Computer Science @ Georgia Tech
 </p>
 

@@ -11,4 +11,6 @@
 <p align="center">
   <a href="https://github.com/msingh384">GitHub</a> •
   <a href="https://www.linkedin.com/in/mannanrajsingh/">LinkedIn</a>
+  <a href="https://mannanrajsingh.vercel.app/">Website</a>
+
 </p>
